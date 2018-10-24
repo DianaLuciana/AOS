@@ -1,1 +1,2 @@
 # AOS
+Teme laborator AOS
